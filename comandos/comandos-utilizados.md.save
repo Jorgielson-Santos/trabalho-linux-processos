@@ -1,0 +1,2 @@
+ps -o pid,ppid,stat,pri,ni,%cpu,%mem,cmd -p 1163
+
